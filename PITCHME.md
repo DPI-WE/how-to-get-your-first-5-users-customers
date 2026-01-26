@@ -37,9 +37,9 @@ _paginate: false
 
 ---
 
-# 1. Write down a list of all your contacts 📇
+# 1. Gather your Leads (people you can contact)
 
-Gather your **leads** (people you can contact):
+Write down a list of all your contacts:
 
 - social 📱
   - all followers you can *directly* message
@@ -242,7 +242,7 @@ These free users are super valuable:
 # Product-led Growth with Viral Loops
 
 - Product-led Growth means the product itself drives new user acquisition
-- Viral Loops happen when the product spreads simply through its use/consumption.
+- **Viral Loops* happen when the product spreads simply through its use/consumption.
 
 ---
 
