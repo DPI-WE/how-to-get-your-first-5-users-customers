@@ -29,10 +29,17 @@ _paginate: false
 <!-- also works for finding a job -->
 ---
 
-<!-- you've already written personas of your target user -->
-<!-- if you've built a tool for yourself, find more people like you -->
+# Time to Find Real Users
+
+- You've already written personas of your target user
+- Now we're going to find people that match your target persona
+- If you've built a tool for yourself, we'll find more people like you
+
+---
 
 # 1. Write down a list of all your contacts 📇
+
+Gather your **leads** (people you can contact):
 
 - social 📱
   - all followers you can *directly* message
@@ -72,15 +79,34 @@ _paginate: false
 
 # 5. What do I say if they reply? 🤔
 
-- ACA (Acknowledge - Compliment - Ask)
+- Use the **ACA** framework
 
 1. **Acknowledge** - acknowledge something they've done recently
 2. **Compliment** - compliment them
 3. **Ask** - ask a question that relates to compliment and what you're selling
 
-- Remember to be a human first
+---
+
+# ACA - Acknowledge Compliment Ask
+
+> Hey [Name], I loved your recent post about [topic]!
+
+(wait for response)
+
+> You have a great way of explaining things.
+
+(wait for response)
+
+> I'm working on an app that helps with [related problem]. Do you know anyone who might be interested?
+
+---
+
+# Don't Be Spammy 🤖
+
+- Remember, be a human.
 - Wait for them to respond.
-- Have a natural conversation. This only works if you're being authentic.
+- Have a natural conversation.
+- This only works if you're being authentic.
 
 ---
 
@@ -100,10 +126,7 @@ _paginate: false
 > "Do you know anyone who is looking for XYZ? I'm opening up a few slots to do exactly that."
 
 - You're asking them for a favor, not to buy from you. It shouldn't feel weird.
-- However, if they show *interest* in your service, you've just converted a **Lead** to an **Engaged Lead**
-
-**Lead** - someone you can contact
-**Engaged lead** - someone you can contact who has shown interest in what you are selling
+- However, if they show *interest* in your service, you've just converted a **Lead** to an **Engaged Lead** (someone you can contact who has shown interest in what you are selling)
 
 ---
 
@@ -112,28 +135,6 @@ _paginate: false
 - Can you use the ACA (acknowlege, compliment, ask) framework to come up with a script?
 - Please work in small groups (3-5 people) and write a script
 - We'll come back as a class and practice pitching each other
-
-<!--
-
-> Hey [Name], I loved your recent post about [topic]!
-
-(wait for response)
-
-> You have a great way of explaining things.
-
-(wait for response)
-
-> I'm working on an app that helps with [related problem]. Do you know anyone who might be interested?
-
-Summary of conversation:
-
-Introduction
-Asked questions and got understanding of experiences and situations.
- Offer basic solutions
-Transition into focused solution my application provides
-Opportunities for connection
-
--->
 
 ---
 
@@ -235,6 +236,30 @@ These free users are super valuable:
   - information/insights/updates
   - etc.
 - Leads will start soliciting you
+
+---
+
+# Product-led Growth with Viral Loops
+
+- Product-led Growth means the product itself drives new user acquisition
+- Viral Loops happen when the product spreads simply through its use/consumption.
+
+---
+
+# How It Works
+
+- Users interact with your product
+- That usage exposes more people
+- New users sign up
+- Repeat
+
+---
+
+# Examples
+
+- YouTube video embed
+- Calendly scheduling links
+- Referral Bonus
 
 ---
 
