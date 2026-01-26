@@ -78,14 +78,16 @@ _paginate: false
 2. **Compliment** - compliment them
 3. **Ask** - ask a question that relates to compliment and what you're selling
 
-- Remember be a human first!
-- This only works if you're being authentic
+- Remember to be a human first
+- Wait for them to respond.
+- Have a natural conversation. This only works if you're being authentic.
 
 ---
 
 # 6. Invite their friends 👥
 
 - You are not going to sell *this* person
+- You are asking if they know anyone who might be interested
 
 - why?
   - expands list of potential leads
@@ -98,7 +100,6 @@ _paginate: false
 > "Do you know anyone who is looking for XYZ? I'm opening up a few slots to do exactly that."
 
 - You're asking them for a favor, not to buy from you. It shouldn't feel weird.
-
 - However, if they show *interest* in your service, you've just converted a **Lead** to an **Engaged Lead**
 
 **Lead** - someone you can contact
@@ -106,9 +107,33 @@ _paginate: false
 
 ---
 
-# Let's practice
+# Breakout Groups
 
-<!-- Practice pitching your projects using ACA framework -->
+- Can you use the ACA (acknowlege, compliment, ask) framework to come up with a script?
+- Please work in small groups (3-5 people) and write a script
+- We'll come back as a class and practice pitching each other
+
+<!--
+
+> Hey [Name], I loved your recent post about [topic]!
+
+(wait for response)
+
+> You have a great way of explaining things.
+
+(wait for response)
+
+> I'm working on an app that helps with [related problem]. Do you know anyone who might be interested?
+
+Summary of conversation:
+
+Introduction
+Asked questions and got understanding of experiences and situations.
+ Offer basic solutions
+Transition into focused solution my application provides
+Opportunities for connection
+
+-->
 
 ---
 
@@ -138,15 +163,15 @@ These "customers" are not paying you money, but they are paying for your service
 
 # Script #1
 
->Do you know anybody who is (describe their struggles) looking to (dream outcome) in (time delay)?
->I'm taking on 5 case studies for free because that's all I can handle
->I just want to get some testimonials for my product
+> Do you know anybody who is (describe their struggles) looking to (dream outcome) in (time delay)?
+> I'm taking on 5 case studies for free because that's all I can handle
+> I just want to get some testimonials for my product
 
 (this is your first app and you don't know what you're doing so 5 is plenty)
 
->I just had a user named (xxx) work with me to get (dream outcome) even though she (describe struggle).
->I'd like to get more testimonials to show it works across different scenarios.
->Does anyone you know come to mind?
+> I just had a user named (xxx) work with me to get (dream outcome) even though she (describe struggle).
+> I'd like to get more testimonials to show it works across different scenarios.
+> Does anyone you know come to mind?
 
 ---
 
@@ -172,7 +197,7 @@ If people get value from your product or service, they are more likely to:
 
 - When people start referring, you are good enough to start charging
 
->I'm taking on 5 case studies for ~~free~~ 80% off because that's all I can handle
+> I'm taking on 5 case studies for ~~free~~ 80% off because that's all I can handle
 
 - Then keep increasing price
 
@@ -184,7 +209,7 @@ If people get value from your product or service, they are more likely to:
 
 - Go back to your free users
 
->I am accepting somebody who is paying full price in order to do this, if you would like me to keep doing this for you, you would have to start paying to match them. Are you comfortable with that?
+> I am accepting somebody who is paying full price in order to do this, if you would like me to keep doing this for you, you would have to start paying to match them. Are you comfortable with that?
 
 - If not, no worries.
   - You just gave them free stuff.
@@ -213,14 +238,6 @@ These free users are super valuable:
 
 ---
 
-# Breakout groups
-
-- Can you use the ACA (acknowlege, compliment, ask) framework to come up with a script?
-- Please work in small groups (3-5 people) and write a script
-- We'll come back as a class and practice pitching each other
-
----
-
 # Assignment: Submit Your Outreach Script
 
 - Practice creating a personalized script using the ACA framework and reach out to contacts in your network. This can be over the phone, in-person, sms, social media, etc.
@@ -229,26 +246,6 @@ These free users are super valuable:
 ---
 
 # Examples
-
-<!-- ACA Message:
-
-> Hey [Name], I loved your recent post about [topic]!
-
-(wait for response)
-
-> You have a great way of explaining things.
-
-(wait for response)
-
-> I'm working on an app that helps with [related problem]. Do you know anyone who might be interested?
-
-Summary of conversation:
-
-Introduction
-Asked questions and got understanding of experiences and situations.
- Offer basic solutions
-Transition into focused solution my application provides
-Opportunities for connection -->
 
 ---
 
