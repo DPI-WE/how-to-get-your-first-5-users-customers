@@ -18,39 +18,41 @@ _paginate: false
 
 ---
 
-# Product development lifecycle 
+# Product development lifecycle
 
 1. Idea 💡
 2. Launch something 🚀
-<!-- this is also called "marketing" -->
-<!-- also works for finding a job -->
 3. Talk to users to see if it serves their needs 🗣️ <--- you're here now
 4. Repeat 🔁
 
+<!-- this is also called "marketing" -->
+<!-- also works for finding a job -->
 ---
 
 <!-- you've already written personas of your target user -->
 <!-- if you've built a tool for yourself, find more people like you -->
 
-
 # 1. Write down a list of all your contacts 📇
+
 - social 📱
-    - all followers you can *directly* message
-    - Instagram
-    - Facebook
-    - Linkedin
-    - etc.
+  - all followers you can *directly* message
+  - Instagram
+  - Facebook
+  - Linkedin
+  - etc.
 - email 📧
 - phone numbers 📞
 
 ---
 
 # 2. Pick a platform to start 🎯
+
 - Preferably the platform you have the most contacts
 
 ---
 
 # 3. What do I say? 🗣️
+
 - Personalize your message
 - Be a human being
 - It doesn't matter how, just prove you're not blasting all your contacts
@@ -62,13 +64,15 @@ _paginate: false
 ---
 
 # 4. Reach out 👋
+
 - Your goal should be to reach out to 100 people, every single day
 - Start with 1, then go from there
 
 ---
 
 # 5. What do I say if they reply? 🤔
-- ACA (Acknowledge Compliment Ask)
+
+- ACA (Acknowledge - Compliment - Ask)
 
 1. **Acknowledge** - acknowledge something they've done recently
 2. **Compliment** - compliment them
@@ -77,14 +81,15 @@ _paginate: false
 - Remember be a human first!
 - This only works if you're being authentic
 
----  
+---
 
 # 6. Invite their friends 👥
+
 - You are not going to sell *this* person
 
 - why?
-    - expands list of potential leads
-    - keeps it casual (not high pressure salesy)
+  - expands list of potential leads
+  - keeps it casual (not high pressure salesy)
 
 ---
 
@@ -100,6 +105,7 @@ _paginate: false
 **Engaged lead** - someone you can contact who has shown interest in what you are selling
 
 ---
+
 # Let's practice
 
 <!-- Practice pitching your projects using ACA framework -->
@@ -109,6 +115,7 @@ _paginate: false
 # 7. Make it free 🎁
 
 I'm going to do all this stuff for free as long as you promise to do 3 things:
+
 1. You actually use my service
 2. You give me feedback on it
 3. Leave a great review (if you think it deserves it)
@@ -145,7 +152,7 @@ These "customers" are not paying you money, but they are paying for your service
 
 # Script #2
 
->I helped (type of customer) get (dream outcome) in (time period) without effort and sacrifice and I guarantee (xyz) to decrease risk.
+> I helped (type of customer) get (dream outcome) in (time period) without effort and sacrifice and I guarantee (xyz) to decrease risk.
 
 - If people don't want to work with you (even for free) that means there are hidden costs associated with your service. You need to figure out those hidden costs.
 
@@ -153,7 +160,8 @@ These "customers" are not paying you money, but they are paying for your service
 
 ---
 
-If people get value from your product or service, they are more likely to 
+If people get value from your product or service, they are more likely to:
+
 - leave a positive review ⭐️
 - give you feedback 🗣️
 - send friends/family 👨‍👩‍👧‍👦
@@ -179,13 +187,14 @@ If people get value from your product or service, they are more likely to
 >I am accepting somebody who is paying full price in order to do this, if you would like me to keep doing this for you, you would have to start paying to match them. Are you comfortable with that?
 
 - If not, no worries.
-    - You just gave them free stuff.
-    - Remember to ask for that great review.
+  - You just gave them free stuff.
+  - Remember to ask for that great review.
 - Think long term.
 
 ---
 
-These free users are super valuable
+These free users are super valuable:
+
 1. they're going to leave you reviews
 2. they're going to send you people
 3. they may transition into customers
@@ -209,6 +218,37 @@ These free users are super valuable
 - Can you use the ACA (acknowlege, compliment, ask) framework to come up with a script?
 - Please work in small groups (3-5 people) and write a script
 - We'll come back as a class and practice pitching each other
+
+---
+
+# Assignment: Submit Your Outreach Script
+
+- Practice creating a personalized script using the ACA framework and reach out to contacts in your network. This can be over the phone, in-person, sms, social media, etc.
+- Submit a copy of your outreach script and some screenshots or summaries of your conversations.
+
+---
+
+# Examples
+
+<!-- ACA Message:
+
+> Hey [Name], I loved your recent post about [topic]!
+
+(wait for response)
+
+> You have a great way of explaining things.
+
+(wait for response)
+
+> I'm working on an app that helps with [related problem]. Do you know anyone who might be interested?
+
+Summary of conversation:
+
+Introduction
+Asked questions and got understanding of experiences and situations.
+ Offer basic solutions
+Transition into focused solution my application provides
+Opportunities for connection -->
 
 ---
 
