@@ -242,7 +242,7 @@ These free users are super valuable:
 # Product-led Growth with Viral Loops
 
 - Product-led Growth means the product itself drives new user acquisition
-- **Viral Loops* happen when the product spreads simply through its use/consumption.
+- **Viral Loops** happen when the product spreads simply through its use/consumption.
 
 ---
 
